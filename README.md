@@ -1,7 +1,7 @@
-[![MasterHead](https://toppng.com/web-development-website-designing-banner-PNG-free-PNG-Images_218283)
+![MasterHead](https://i.pinimg.com/originals/2e/b4/ff/2eb4ff0afdd5a606d06497e12c848832.jpg)
 <h1 align="center">Hi 👋, I'm Rodgers Kipchumba</h1>
 <h3 align="center">A passionate Back-end developer</h3>
-<img align="right" alt="Coding" width="400" src=“400” src=“https://tenor.com/view/coding-gif-24625099"
+<img align="right" alt="Coding" width="400" src=“https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rkipchumba&label=Profile%20views&color=0e75b6&style=flat" alt="rkipchumba" /> </p>
 

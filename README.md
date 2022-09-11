@@ -1,5 +1,5 @@
 ![MasterHead](https://i.pinimg.com/originals/2e/b4/ff/2eb4ff0afdd5a606d06497e12c848832.jpg)
-<h1 align="center">Hi 👋, I'm Rodgers Kipchumba</h1>
+<h1 align="center">Hi 👋, I'm Rodgers </h1>
 <h3 align="center">Full-Stack Web Developer who is passionate about creating interactive web based applications that makes a difference to the lives of those around me.</h3>
 <img align="right" alt="Coding" width="400" src=“https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 

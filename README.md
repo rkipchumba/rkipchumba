@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [personal portfolio](https://rkipchumba.github.io/Portfolio/)
 
-- 🌱 I’m currently learning **Flask, Django Rest Framework, Docker**
+- 🌱 I’m currently learning **Flask E-Commerce Website, Django Rest Framework, Docker**
 
 - 👨‍💻 All of my projects are available at [https://rkipchumba.github.io/Portfolio/](https://rkipchumba.github.io/Portfolio/)
 

@@ -11,9 +11,9 @@
 
 - 🔭 I’m currently working on [personal portfolio](https://rkipchumba.github.io/Portfolio/)
 
-- 🌱 I’m currently learning **Flask E-Commerce Website, Django Rest Framework, Docker**
+- 🌱 I’m currently learning **Hyperledger and Kubernetes**
 
-- 👨‍💻 All of my projects are available at [https://rkipchumba.github.io/Portfolio/](https://rkipchumba.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://kipchumba.me/](https://kipchumba.me/)
 
 - 💬 Ask me about **Python, Javascript,HTML, CSS**
 

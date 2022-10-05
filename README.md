@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/kipchumba_r" target="blank"><img src="https://img.shields.io/twitter/follow/kipchumba_r?logo=twitter&style=for-the-badge" alt="kipchumba_r" /></a> </p>
 
-- 🔭 I’m currently working on [personal portfolio](https://rkipchumba.github.io/Portfolio/)
+- 🔭 I’m currently working on **Personal Projects**
 
 - 🌱 I’m currently learning **Hyperledger and Kubernetes**
 

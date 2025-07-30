@@ -1,19 +1,57 @@
-# 💫 About Me:
-Hi, I’m Rodgers! I'm a web developer with in-depth experience in Web Dev. In a nutshell, I create websites that help organizations address business challenges
+<h1 align="center">Hi 👋, I'm Rodgers Kipchumba</h1>
+<h3 align="center">A passionate full-stack web developer creating business-driven web solutions</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7DF1E&width=435&lines=Web+Developer;Python+%7C+Django+%7C+FastAPI;React+%7C+Next.js+%7C+TypeScript;Delivering+impactful+solutions" alt="Typing SVG" />
+</p>
 
-## 🌐 Socials:
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/kachiboras) 
+---
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=digitalOcean&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat&logo=material-ui&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+## 🚀 About Me
+- 🌍 Based in Nairobi, Kenya
+- 💻 I specialize in **Full-stack development** using Python, JavaScript, TypeScript, and modern frameworks.
+- 🔭 Currently building: **TheV.Bar** – A robust mobile-first platform for online engagement.
+- 🛠️ Passionate about clean architecture, automation, and scalable solutions.
+- ✨ Fun fact: I love performance tuning and backend optimization!
 
+---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rkipchumba&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🌐 Connect with Me
+<p align="left">
+  <a href="https://twitter.com/kachiboras" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://linkedin.com/in/rkipchumba" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:kipchumba.rodgers@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
+---
 
+## 💻 Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,py,django,fastapi,flask,html,css,tailwind,materialui,nodejs,mysql,mongodb,sqlite,aws,netlify,docker,jenkins,nginx" />
+</p>
 
-[![](https://visitcount.itsvg.in/api?id=rkipchumba&icon=0&color=0)](https://visitcount.itsvg.in)
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rkipchumba&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rkipchumba&theme=radical&hide_border=true" width="48%" />
+</div>
+
+---
+
+## 🏆 Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rkipchumba&theme=radical&no-bg=true&no-frame=true&margin-w=10" />
+</p>
+
+---
+
+## 📈 Visitor Count
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=rkipchumba&label=Profile%20Views&color=6&icon=0&pretty=true" />
+</p>
+
+---
+
+<!-- Proudly created with @GPRM and enhanced by Rodgers -->
